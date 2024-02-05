@@ -1,2 +1,1 @@
-# DynamicHedgingDeepRL
-Dynamic Hedging on Options Data using Deep Reinforcement Learning
+# Dynamic Hedging of Options Data using Deep Reinforcement Learning
